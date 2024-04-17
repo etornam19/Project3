@@ -1,6 +1,12 @@
 h1{
   text-align: center;
 }
+.header{
+  position: fixed;
+  top: 0;
+  padding: 20px;
+  background-color: bisque;
+}
 .navbar {
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
