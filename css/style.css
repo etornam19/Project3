@@ -3,18 +3,24 @@ body {
   background-color: #99fafa;
   margin: 20px
 }
-
 h1{
   text-align: center;
 }
-
+.navbar {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(252, 37, 216);
+  height: 20px;
+}
 .navbar ul{
   list-style-type: none;
   background-color: rgb(233, 184, 214);
   padding: 0px;
   margin: 0px;
 }
-
 .navbar a{
   color: black;
   text-decoration: none;
@@ -25,21 +31,17 @@ h1{
   font-weight: bold;
   margin: 0px;
 }
-
 .navbar a:hover{
   background-color: beige;
 }
-
 .navbar li{
   float:left
 }
-
 footer{
   background-color: black;
   text-align: center;
   color: bisque;
 }
-
 #turtles{
   background-color: rgb(231, 173, 200);
   padding: 10px 2.5% 10px 2.5%;
@@ -47,13 +49,13 @@ footer{
   margin-top: 10px;
 }
 #favoriteFoods{
-  background-color: rgb(173, 219, 231);
+  background-color: rgb(145, 174, 182);
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
 }
 #favoriteShows{
-  background-color: rgb(204, 231, 173);
+  background-color: rgb(174, 196, 149);
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
