@@ -14,18 +14,6 @@ h1{
   background-color: rgb(233, 184, 214);
   padding: 0px;
   margin: 0px;
-  display: inline-block;
-  overflow: hidden;
-}
-
-.navbar {
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: bold;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  background-color: rgb(252, 37, 216);
-  height: 20px;
 }
 
 .navbar a{
