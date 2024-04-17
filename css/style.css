@@ -3,12 +3,12 @@ body {
   background-color: #a0fafa;
   margin: 20px
 }
-h1{
-  text-align: center;
-}
 header{
   position: fixed;
   padding: 0px;
+}
+h1{
+  text-align: center;
 }
 nav {
   font-family: 'Times New Roman', Times, serif;
