@@ -20,6 +20,8 @@ nav {
 nav ul{
   list-style-type: none;
   background-color: rgb(233, 184, 214);
+  padding: 0px;
+  margin: 0xp;
   display: inline-block;
   overflow: hidden;
 }
