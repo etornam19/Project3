@@ -6,13 +6,13 @@ body {
 h1{
   text-align: center;
 }
-.header{
+header{
   position: fixed;
   top: 0;
   padding: 20px;
   background-color: bisque;
 }
-.navbar {
+navbar {
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
   text-align: center;
@@ -21,7 +21,7 @@ h1{
   background-color: rgb(252, 37, 216);
   height: 20px;
 }
-#navbar ul{
+navbar ul{
   list-style-type: none;
   display: inline-block;
   overflow: hidden;
@@ -29,7 +29,7 @@ h1{
   padding: 0px;
   margin: 0px;
 }
-#navbar a{
+navbar a{
   color: black;
   text-decoration: none;
   padding: 15px;
@@ -39,10 +39,10 @@ h1{
   font-weight: bold;
   margin: 0px;
 }
-.navbar a:hover{
+navbar a:hover{
   background-color: beige;
 }
-.navbar li{
+navbar li{
   float:left
 }
 footer{
