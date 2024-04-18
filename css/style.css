@@ -1,6 +1,6 @@
 body {
   font-family: 'Times New Roman', Times, serif;
-  background-color: #b8f7f7;
+  background-color: #cce9e9;
   margin: 0px
 }
 main{
@@ -17,7 +17,7 @@ main{
 .nav ul{
   list-style-type: none;
   display: inline-block;
-  background-color: rgb(55, 151, 119);
+  background-color: lightcoral;
   padding: 0px;
   margin: 0px;
   overflow: hidden;
@@ -58,25 +58,25 @@ footer{
   margin-top: 10px;
 }
 #info{
-  background-color: rgb(62, 82, 95);
+  background-color: rgb(34, 139, 161);
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
 }
 #education{
-  background-color: rgb(84, 111, 129);
+  background-color: rgb(34, 134, 161);
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
 }
 #employment{
-  background-color: rgb(111, 144, 167);
+  background-color: rgb(34, 139, 169);
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
 }
 #extras{
-  background-color: rgb(143, 189, 219);
+  background-color: rgb(34, 137, 163);
   padding: 10px 2.5% 10px 2.5%;
   border-radius: 0px 10px;
   margin-top: 10px;
