@@ -7,14 +7,16 @@ main{
   margin: 20px;
 }
 .nav {
+  text-align: center;
+  background-color: lightcoral;
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
-  text-align: center;
   margin: 0px;
   padding: 0px;
 }
 .nav ul{
   list-style-type: none;
+  display: inline-block;
   background-color: rgb(55, 151, 119);
   padding: 0px;
   margin: 0px;
