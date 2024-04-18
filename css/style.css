@@ -6,13 +6,6 @@ body {
 main{
   margin: 20px;
 }
-header{
-  position: fixed;
-  padding: 20px;
-}
-h1{
-  text-align: center;
-}
 .nav {
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
@@ -40,6 +33,9 @@ h1{
 }
 .nav li{
   float:left
+}
+h1{
+  text-align: center;
 }
 footer{
   background-color: black;
