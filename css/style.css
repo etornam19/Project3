@@ -15,7 +15,7 @@ main{
 }
 .nav ul{
   list-style-type: none;
-  background-color: aquamarine;
+  background-color: rgb(55, 151, 119);
   display: inline-block;
   overflow: hidden;
 }
@@ -29,7 +29,7 @@ main{
   font-weight: bold;
 }
 .nav a:hover{
-  background-color: beige;
+  background-color: rgb(25, 121, 121);
 }
 .nav li{
   float:left
@@ -41,6 +41,12 @@ footer{
   background-color: black;
   text-align: center;
   color: bisque;
+}
+#me{
+  background-color: rgb(230, 199, 217);
+  padding: 10px 2.5% 10px 2.5%;
+  border-radius: 0px 10px;
+  margin-top: 10px;
 }
 #turtles{
   background-color: rgb(231, 173, 200);
