@@ -6,13 +6,6 @@ body {
 main{
   margin: 20px;
 }
-.nav {
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: bold;
-  text-align: center;
-  margin: 0px;
-  padding: 0px;
-}
 .nav ul{
   list-style-type: none;
   background-color: rgb(55, 151, 119);
